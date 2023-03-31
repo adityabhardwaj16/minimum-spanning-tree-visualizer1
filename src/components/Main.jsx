@@ -4,7 +4,7 @@ import SelectGraph from './SelectGraph/SelectGraph';
 import Node from './Canvas/Node';
 import Edge from './Canvas/Edge';
 import Menu from './Menu/Menu';
-import Footer from './Footer';
+// import Footer from './Footer';
 import Reproductor from './Reproductor/Reproductor';
 import AlgorithmsController from './Algorithms/AlgorithmsController';
 import LogData from './LogData/LogData';
